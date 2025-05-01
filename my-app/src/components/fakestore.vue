@@ -113,12 +113,8 @@ export default {
   color: white;
 }
 
-.button-group button:nth-child(2) {
-  background-color: #2196f3;
-  color: white;
-}
 
-.button-group button:nth-child(3) {
+.button-group button:nth-child(2) {
   background-color: #f44336;
   color: white;
 }
